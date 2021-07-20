@@ -65,6 +65,13 @@ You can find more informataion about me [![LinkedIn][1.1]][2]
 - [First-person Cinematographic Videogames: Game Model, Authoring Environment, and Potential for Creating Affection for Places](https://dl.acm.org/doi/abs/10.1145/3446977)
 - [PAC-PAC: intelligent storytelling for point-and-click games on the web](https://dl.acm.org/doi/abs/10.1145/3308557.3308710)
 - [Automatic Surface Segmentation for Seamless Fabrication Using 4-axis Milling Machines](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.142625)
+
+## 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AlessandroTola)][1]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-tola-54048238/)][2]
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/alessandro_tola)][3]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alessandro85.tola@gmail.com)][4]
+[![Instragram Badge](https://img.shields.io/badge/-Instagram-632C82?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/al_tola_/)][5]
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
@@ -76,7 +83,9 @@ You can find more informataion about me [![LinkedIn][1.1]][2]
 
 [1]: https://github.com/AlessandroTola
 [2]: https://www.linkedin.com/in/alessandro-tola-54048238/
-
+[3]: https://www.hackerrank.com/alessandro_tola
+[4]: mailto:alessandro85.tola@gmail.com
+[5]: https://www.instagram.com/al_tola_/
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

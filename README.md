@@ -50,6 +50,12 @@ You can find more informataion about me [![LinkedIn][1.1]][2]
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessandroTola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00aefe&bg_color=1d1f21" alt="Alessandro Tola's GitHub Stats" />
 </a>
 
+## :computer: Current Works
+ * I am a Phd student in the field of human interaction and computer graphics-fabrication
+ * I am currently working as a teacher for The Net Value, I teach for the courses of:
+ 	- Programming C
+	- Versionig Git
+	- Php - Laravel
 ## 📕 My accademic Articles
 
 - [Fabrication oriented shape decomposition using polycube mapping](https://www.sciencedirect.com/science/article/abs/pii/S0097849318301717)

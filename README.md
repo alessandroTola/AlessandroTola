@@ -1,6 +1,29 @@
 ### Hi there 👋
 
-My name is Alessandro Tola, I am a PhD student in Computer Science at University of Cagliari. I am from Sardegna, Italy.
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Alessandro Tola'
+		current_edu = "Master’s degree in computer science"
+         affiliation = "University of Cagliari"
+		hobbies = [
+				'Video games',
+				'Tv series',
+				'Model ship'
+				'Play guitar'
+			]
+	
+	def getCity():
+		return Oristano_Italy()
+	
+	def Ambitions():
+		LearnUnityEngine()
+		CreateMyCompany()
+		FinishMyPhD()
+		# Assume more awesome ambitions here  ;)
+	
+ ```
+ 
 You can find more informataion about me [![LinkedIn][1.1]][2]
 
 ## 🔧 Technologies & Tools

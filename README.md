@@ -18,6 +18,7 @@
 	
 	def Ambitions():
 		LearnUnityEngine()
+		LearningSwift()
 		CreateMyCompany()
 		FinishMyPhD()
 		# Assume more awesome ambitions here  ;)

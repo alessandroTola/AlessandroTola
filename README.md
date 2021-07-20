@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+ <img  width="900" height="506" src="https://github.com/alessandroTola/AlessandroTola/blob/main/IntroGithub.gif">
+</p>
 
 ## Who am I?
  ```python

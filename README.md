@@ -20,6 +20,10 @@ You can find more informataion about me [![LinkedIn][1.1]][2]
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AlessandroTola">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroTola&hide=java,html,tex&title_color=ffffff&text_color=ffffff&icon_color=00aefe&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://github.com/AlessandroTola">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessandroTola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00aefe&bg_color=1d1f21" alt="Alessandro Tola's GitHub Stats" />
 </a>
 <!-- links to social media icons -->

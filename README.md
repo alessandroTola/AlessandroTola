@@ -59,7 +59,7 @@ You can find more informataion about me [![LinkedIn][1.1]][2]
  	- Programming C
 	- Versionig Git
 	- Php - Laravel
-## 📕 My accademic Articles
+## 📕 My academic Articles
 
 - [Fabrication oriented shape decomposition using polycube mapping](https://www.sciencedirect.com/science/article/abs/pii/S0097849318301717)
 - [PAC-PAC: End User Development of Immersive Point and Click Games](https://link.springer.com/chapter/10.1007/978-3-030-24781-2_20)

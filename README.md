@@ -54,6 +54,7 @@ You can find more informataion about me [![LinkedIn][1.1]][2]
 </a>
 
 ## :computer: Current Works
+ * I currently work for [VisioScientiae](https://www.visioscientiae.com/)
  * I am a Phd student in the field of human interaction and computer graphics-fabrication
  * I am currently working as a teacher for The Net Value, I teach for the courses of:
  	- Programming C
